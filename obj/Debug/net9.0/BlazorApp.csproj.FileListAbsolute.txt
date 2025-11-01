@@ -72,3 +72,4 @@ C:\Users\SIBED\BlazorApp\obj\Debug\net9.0\refint\BlazorApp.dll
 C:\Users\SIBED\BlazorApp\obj\Debug\net9.0\BlazorApp.pdb
 C:\Users\SIBED\BlazorApp\obj\Debug\net9.0\BlazorApp.genruntimeconfig.cache
 C:\Users\SIBED\BlazorApp\obj\Debug\net9.0\ref\BlazorApp.dll
+c:\Users\SIBED\BlazorApp\obj\Debug\net9.0\BlazorApp.sourcelink.json
